@@ -1,7 +1,7 @@
 # alpfinder
 Android Lock Pattern Finder for Arduino
 2018 - Sebastian Gomez - 
-Gabinete de Pericias Informaticas
+Gabinete de Pericias Informaticas -
 Neuquen - Argentina
 Quick reference:
 1) Define a new mobile device profile using the templates included in this script. Copy and paste a template and add the main parameters x1,y1,c,h and h1 for the new device model.
