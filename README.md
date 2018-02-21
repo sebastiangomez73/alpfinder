@@ -1,6 +1,8 @@
 # alpfinder
 Android Lock Pattern Finder for Arduino
-2018 - Sebastian Gomez - Gabinete de Pericias Informaticas - Neuquen - Argentina
+2018 - Sebastian Gomez - 
+Gabinete de Pericias Informaticas
+Neuquen - Argentina
 Quick reference:
 1) Define a new mobile device profile using the templates included in this script. Copy and paste a template and add the main parameters x1,y1,c,h and h1 for the new device model.
    Note: The h1 parameter is used when the long diagonal is bigger than 90, because relative mouse steps are limited to this scope by the Mouse.h library. The step h is done in an iterative loop until the pointer reaches h1 distance.
